@@ -1,0 +1,14 @@
+body {
+	background-color: cyan; 
+}
+
+li {
+     color: red;
+} 
+#fleur {
+	width: 600px;
+}
+#right-div {
+	background-color: orange;
+	text-align: right;
+}
